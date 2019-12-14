@@ -35,3 +35,6 @@ End-to-End pipeline for car number plate recognition using Deep Learning
 #### Report Link
 https://docs.google.com/document/d/1Sa3jxZ_6bPCQz6wDBn-h-yO2jaeonfrUAkS2-ZWV7hU/edit?usp=sharing
       
+## Collaborator for this project on :  
+
+https://github.com/jaminaveen/Car-Plate-Recogonition-Project
