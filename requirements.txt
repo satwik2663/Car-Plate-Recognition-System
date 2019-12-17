@@ -81,9 +81,6 @@ six==1.12.0
 sortedcontainers==2.1.0
 soupsieve==1.9.5
 tblib==1.4.0
-tensorboard==1.14.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
